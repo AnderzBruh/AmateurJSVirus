@@ -1,5 +1,3 @@
-#How it works
-
 This virus works by luring in someone with a tic tac toe game with an AI made by me built in a google sheet.
 
 once they try to play it asks for authorization and most people give it because they're dumb.
