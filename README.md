@@ -1,4 +1,4 @@
-# AmateurJSVirus
+#How it works
 
 This virus works by luring in someone with a tic tac toe game with an AI made by me built in a google sheet.
 
