@@ -1,5 +1,5 @@
 
-
+//all of this is to visualize the data in the MySQL database more easily in a google spreadsheet.
 
 var yep = 'putAdressHere'
 var mHmm = 'putUserHere'
