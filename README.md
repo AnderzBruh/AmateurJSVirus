@@ -1,3 +1,6 @@
+This was made in my Jr. year of high school. A lot of this code and it's architecture are amusingly bad so don't take it as a reflection of my current ability lol
+------------------------------------------
+
 This virus works by luring in someone with a tic tac toe game with an algorithm made by me built in a google sheet.
 
 Once they try to play it asks for authorization and most people give it because they dont pay it too much attention.
